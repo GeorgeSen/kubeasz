@@ -1,4 +1,4 @@
-# to install etcd cluster
+# to install etcd cluster eas
 - hosts: etcd
   roles:
   - etcd
